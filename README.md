@@ -1,2 +1,2 @@
-# L.A_Systems_ADGEN
-Makes Computer Ads 
+# L.A Systems
+Makes Computer Ads From Xml Data Sheets
